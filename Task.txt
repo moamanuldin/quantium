@@ -1,0 +1,39 @@
+Task Breakdown
+- Data Analysis and Customer Segments
+  - Define Metrics
+	- Identify and define key metrics for analysis (e.g., total sales, sales drivers, highest sales regions).
+  - Analyze Total Sales
+	- Calculate total sales.
+	- Identify trends and patterns in total sales over time.
+  - Identify Sales Drivers
+	- Determine factors driving sales (e.g., product categories, promotions, customer demographics).
+  - Analyze Sales by Region
+	- Identify regions with the highest sales.
+	- Compare sales performance across different regions.
+  - Explore Data
+	- Perform exploratory data analysis (EDA) to understand the dataset.
+	- Identify any anomalies or outliers.
+  - Create Charts and Graphs
+	- Visualize data using charts and graphs (e.g., bar charts, line graphs, pie charts).
+	- Highlight key findings and trends.
+  - Note Interesting Trends and Insights
+	- Document any interesting trends or insights discovered during the analysis.
+	- Summarize findings for the report.
+- Deep Dive into Customer Segments
+  - Define Customer Segments
+	- Segment customers based on relevant criteria (e.g., demographics, purchasing behavior).
+  - Analyze Customer Segments
+	- Perform detailed analysis of each customer segment.
+	- Identify key characteristics and behaviors of each segment.
+  - Provide Recommendations
+	- Based on insights, recommend which customer segments to target.
+	- Justify recommendations with data-driven insights.
+  - Evaluate Packet Sizes
+	- Determine if packet sizes are relevant to customer segments.
+	- Analyze the impact of packet sizes on sales and customer preferences.
+- Form Overall Conclusion
+  - Summarize the overall findings from the analysis.
+  - Provide a comprehensive conclusion based on the data analysis and customer segment insights.
+- Prepare Report for Julia
+  - Compile all findings, charts, graphs, and recommendations into a report.
+  - Ensure the report is clear, concise, and well-organized for presentation to Julia.
